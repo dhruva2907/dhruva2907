@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Machine Learning,Data Analyst, Software Developer roles**
+- 🙌 I'm  open to: **Machine Learning, Data Analyst, Software Developer roles**
 
 <br/><br/>
 
