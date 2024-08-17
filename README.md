@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="name.gif" alt="Dhruva Etoor Typer" />
+<img src="2024-08-17-Hi-I-m-Dhruva-.gif" alt="Dhruva Etoor Typer" />
 </div>
 <br/>
 
