@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on: **Chatbot Song Recommender System(CakeChat)**
 
-- 🌱 I’m currently learning: **SQL | HRED | Docker**
+- 🌱 I’m currently learning: **RestAPI | HRED | Docker**
 
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about: **Technology | Anime | Movies | Music | Football | History**
 
-- 🤓 Active User at: **GitHub | LinkedIn**
+- 🤓 Active User at: **GitHub | Discord | LinkedIn**
 
 - 📫 How to reach me:
 
