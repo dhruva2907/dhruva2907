@@ -30,9 +30,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Chatbot Song Recommender System(CakeChat)**
+- 🔭 I’m currently working on: **NLP**
 
-- 🌱 I’m currently learning: **RestAPI | HRED | Docker**
+- 🌱 I’m currently learning: **SpaCy | BERT | Hugging Face**
 
 
 <div align="center">
