@@ -30,9 +30,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **NLP**
+- 🔭 I’m currently working on: **Networks | MLOps |**
 
-- 🌱 I’m currently learning: **SpaCy | BERT | Hugging Face**
+- 🌱 I’m currently learning: **R | Network Analysis | Data Engineering |**
 
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about: **Technology | Anime | Movies | Music | Football | History**
 
-- 🤓 Active User at: **GitHub | Discord | LinkedIn**
+- 🤓 Active User at: **GitHub | Discord | LinkedIn | Reddit | X**
 
 - 📫 How to reach me:
 
