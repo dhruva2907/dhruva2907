@@ -30,9 +30,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Networks | MLOps |**
+- 🔭 I’m currently working on: **Networks | MLOps**
 
-- 🌱 I’m currently learning: **R | Network Analysis | Data Engineering |**
+- 🌱 I’m currently learning: **R | Network Analysis | Data Engineering**
 
 
 <div align="center">
