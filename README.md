@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm  open to: **Machine Learning, Data Analyst, Software Developer roles**
+- 🙌 I'm  open to: **Machine Learning, Data Analyst**
 
 <br/><br/>
 
@@ -30,20 +30,20 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on: **Networks | MLOps**
+- 🔭 I’m currently working on: **Thesis-> Real-Time Vessel Trajectory Prediction for Maritime Security**
 
-- 🌱 I’m currently learning: **R | Network Analysis | Data Engineering**
+- 🌱 I’m currently learning: **Data Engineering**
 
 
 <div align="center">
 <img src="giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology | Anime | Movies | Music | Football | History**
 
-- 🤓 Active User at: **GitHub | Discord | LinkedIn | Reddit | X**
+- 💬 Ask me about: **Technology | Games | Movies | Music | Football | History**
+
+- 🤓 Active User at: **GitHub | Discord | LinkedIn |**
 
 - 📫 How to reach me:
 
@@ -60,8 +60,7 @@
 
 - ⚡ Fun Facts: 
 
-    * *Besides programming, I'm a **Melophile** for life and love to cook when I'm free.*
+    * *Besides programming, I'm a **Melophile** for life and love to play games when I'm free.*
 
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
     
     * *If you're still reading, Let's Connect !!*
