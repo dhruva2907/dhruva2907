@@ -56,7 +56,7 @@
 <img src="connected.gif" alt="Dhruva Etoor" width="350" height="200" />
 </div>
 
-- 😄 Pronouns: **He/Him**
+
 
 - ⚡ Fun Facts: 
 
